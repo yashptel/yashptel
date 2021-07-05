@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Go, JavaScript, HTML, CSS, Vue js**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS, Python**
 
 <!-- - 👨‍💻 All of my projects are available at [https://d3ward.github.io/](https://d3ward.github.io/) -->
 
