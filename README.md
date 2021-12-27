@@ -12,7 +12,7 @@ My name is Yash and I'm a software engineer. I'm from India and currently workin
 
 - 💬 Ask me about **Extensions, Vanilla JS, Front-end**
 
-- 📫 How to reach me **yashpatel2898@gmail.com**
+- 📫 How to reach me **yashptel@duck.com**
 
 <!-- <h3 align="left">Support:</h3> -->
 <!-- <p><a href="https://www.buymeacoffee.com/dOWS9cU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="d3ward" /></a></p><br><br> -->
