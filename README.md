@@ -1,42 +1,24 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/yashptel/yashptel/main/wave.gif" width="30px">
-
-My name is Yash and I'm a software engineer. I'm from India and currently working at FirstCry. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+<h1 align="center">Hi 👋, I'm Yash</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashptel&label=Profile%20views&color=0e75b6&style=flat" alt="yashptel" /> </p>
 
-- 🔭 I’m currently working on **Go, JavaScript, HTML, CSS, Vue js**
-
-- 🌱 I’m currently learning **ReactJS, Python**
-
-<!-- - 👨‍💻 All of my projects are available at [https://d3ward.github.io/](https://d3ward.github.io/) -->
-
-- 💬 Ask me about **Extensions, Vanilla JS, Front-end**
+- 💬 Ask me about **go, javascript, react and vue**
 
 - 📫 How to reach me **yashptel@duck.com**
 
-<!-- <h3 align="left">Support:</h3> -->
-<!-- <p><a href="https://www.buymeacoffee.com/dOWS9cU"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="d3ward" /></a></p><br><br> -->
-<br>
-<p style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashptel&show_icons=true&locale=en" alt="yashptel" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/yashptel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yashptel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yashptel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashptel" height="30" width="40" /></a>
+<a href="https://medium.com/@yashptel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yashptel" height="30" width="40" /></a>
+</p>
 
-<p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashptel&show_icons=true&locale=en&layout=compact" alt="yashptel" /></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<!-- links to social media icons -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashptel&show_icons=true&locale=en&layout=compact" alt="yashptel" /></p>
 
-<!-- icons with padding -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashptel&show_icons=true&locale=en" alt="yashptel" /></p>
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/yashptel99
-[2]: https://github.com/yashptel
-[3]: https://www.linkedin.com/in/yashptel
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashptel&" alt="yashptel" /></p>
