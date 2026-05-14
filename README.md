@@ -24,7 +24,7 @@
 - 📈 Shipped **[Trading Terminal](https://trade.squiwo.com)** — low-latency multi-exchange futures terminal with a Go/WASM signer
 - 🌐 Open-source: contributed UI shipped to **4M+ weekly users** on [Return YouTube Dislike](https://github.com/Anarios/return-youtube-dislike)
 - 💬 Ask me about **PostgreSQL at scale, multi-tenant SaaS, Next.js, Go, or LLM application engineering**
-- 📫 Reach me at **yashptel@duck.com**
+- 📫 Reach me at **yashptel@outlook.com**
 
 ---
 
