@@ -105,10 +105,16 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashptel&theme=default&hide_border=true&include_all_commits=false&count_private=true&show_icons=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashptel&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashptel&theme=default&hide_border=true&include_all_commits=false&count_private=true&layout=compact&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yashptel&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashptel&theme=default" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashptel&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashptel&theme=default&utcOffset=5.5" />
+</p>
+
