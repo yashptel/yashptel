@@ -16,6 +16,18 @@
 
 ---
 
+### 🎮 Contribution arcade
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashptel/yashptel/output/bomberman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashptel/yashptel/output/bomberman-contribution-graph.svg" />
+    <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/yashptel/yashptel/output/bomberman-contribution-graph.svg" />
+  </picture>
+</p>
+
+---
+
 ### 🧭 About
 
 - 🔭 Currently shipping i18n/l10n infra and deployment observability at **Eventbrite** across 140+ microservices
@@ -99,18 +111,6 @@
 | 🏭 **[SERO](https://app.squiwo.com)** | Multi-tenant manufacturing SaaS with DAG-based scheduling | React · Go · Postgres · Dodo Payments |
 | 📈 **[Trading Terminal](https://trade.squiwo.com)** | Sub-100ms multi-exchange futures terminal | React · Go · WebAssembly · WebSockets |
 | 👎 **[Return YouTube Dislike](https://github.com/Anarios/return-youtube-dislike)** | Browser-side UI injection — 4M+ weekly users | JavaScript · Browser extensions |
-
----
-
-### 🎮 Contribution arcade
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yashptel/yashptel/output/bomberman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yashptel/yashptel/output/bomberman-contribution-graph.svg" />
-    <img alt="Bomberman contribution graph" src="https://raw.githubusercontent.com/yashptel/yashptel/output/bomberman-contribution-graph.svg" />
-  </picture>
-</p>
 
 ---
 
